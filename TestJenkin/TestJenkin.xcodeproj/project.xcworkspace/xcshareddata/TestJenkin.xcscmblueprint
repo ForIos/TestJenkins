@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E7A97BE4C9421ECA12C217565454612C26F52509",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B5C90F0845E3338C0E33E8C247756517CD9C3169" : 0,
+    "E7A97BE4C9421ECA12C217565454612C26F52509" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C0D57ECB-CE4A-4E08-BCDE-4B8DE254EF7E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B5C90F0845E3338C0E33E8C247756517CD9C3169" : "",
+    "E7A97BE4C9421ECA12C217565454612C26F52509" : "TestJenkins\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TestJenkin",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TestJenkin\/TestJenkin.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ForIos\/GitProject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B5C90F0845E3338C0E33E8C247756517CD9C3169"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ForIos\/TestJenkins.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E7A97BE4C9421ECA12C217565454612C26F52509"
+    }
+  ]
+}

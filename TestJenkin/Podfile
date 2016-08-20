@@ -1,0 +1,4 @@
+target 'TestJenkin' do
+use_frameworks!
+pod 'Masonry'
+end
